@@ -28,7 +28,8 @@ To add a chunk either click on the green Insert button and choose R or hit Comma
 Wilson et al. emphasize the importance of preserving raw data as it was "originally generated." By preserving the original form of data, other researchers can run similar analyses and replicate conclusions proposed by publications of the original author. Furthermore, Wilson et al. continue to emphasize that raw data must be stored in multiple locations to ensure protection and easy retrieval.
 
 3) Add a code chunk and find the square root of 4 to the 13th power. If you are unsure of what command to use, google it.
-
+> sqrt(4^13)
+[1] 8192
 
 4) Push this homework to the GitHub repository for the homework. 
 
